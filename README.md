@@ -19,16 +19,24 @@
 | Intelligence |             |
 | Wisdom       |             |
 | Charisma     |             |
-| Composure    |             |
-| Intuition    |             |
+| Tech         |             |
+| Imagination  |             |
 
-## Skills
+## Checks
 
 | Skill | Description |
 | ----- | ----------- |
-| Athletics (str) |   |
-| Acrobatics (dex) |  |
-| Tech (int) |        |
-| Spot (Sen) |        |
-| Listen (Sen) |      |
-| Smell (Sen) |       |
+| Athletics  |   |
+| Acrobatics |  |
+| Intuition  |        |
+| Composure   |        |
+| Spot  |        |
+| Listen  |      |
+| Smell  |       |
+| Ingenuity  |       |
+| Stealth  |       |
+| Persuasion  |       |
+| Deception  |       |
+| Intimidate |       |
+| Empathy |  |
+| Computer Use | |
