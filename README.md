@@ -97,3 +97,11 @@ Positive dice rolls a 1 and 3.
 Negative dice rolls a 6
 Number of total successes: -1
 ```
+
+```
+You have a 2 in Spot and a 2 in Sens.
+You roll 4 positive dice and 0 negative dice.
+Positive dice rolls a 5, 4, 2, and 6.
+Negative dice rolls nothing.
+Number of total successes: 2
+```
