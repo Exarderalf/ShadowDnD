@@ -59,3 +59,38 @@ Capped at: level + 1
 | Empathy      |             |
 | Computer Use |             |
 | Medicine     |             |
+
+## Example Dice for DC checks
+
+Make a Spot (Sens) Check.
+```
+You have a 2 in Spot and a -1 in Sens.
+You roll 2 positive dice and 1 negative dice.
+Positive dice rolls a 5 and 2.
+Negative dice rolls a 6
+Number of total successes: 0
+```
+
+```
+You have a 2 in Spot and a -1 in Sens.
+You roll 2 positive dice and 1 negative dice.
+Positive dice rolls a 5 and 2.
+Negative dice rolls a 2
+Number of total successes: 1
+```
+
+```
+You have a 2 in Spot and a -1 in Sens.
+You roll 2 positive dice and 1 negative dice.
+Positive dice rolls a 5 and 6.
+Negative dice rolls a 2
+Number of total successes: 2
+```
+
+```
+You have a 2 in Spot and a -1 in Sens.
+You roll 2 positive dice and 1 negative dice.
+Positive dice rolls a 1 and 3.
+Negative dice rolls a 6
+Number of total successes: -1
+```
