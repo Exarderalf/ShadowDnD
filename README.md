@@ -62,6 +62,9 @@ Capped at: level + 1
 
 ## Example Dice for DC checks
 
+Successes are 5 and 6 on a d6.
+Negative dice successes subtract from the postive successes to get the end result.
+
 Make a Spot (Sens) Check.
 ```
 You have a 2 in Spot and a -1 in Sens.
