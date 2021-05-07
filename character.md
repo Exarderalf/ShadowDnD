@@ -28,7 +28,7 @@ Attributes represent the base representation of the mind and body of the charact
 
 Combination of Dex and Reaction as well armor/shield worn. Possible flat footed for one round if surprised (failing both a spot/listen/hearing check and reaction save). Being flat footed can lose one or both of dex or reaction depending on failure scaling.
 
-10 + dex + reaction + worn items
+`10 + dex + reaction + worn items`
 
 ## Proficiency
 
