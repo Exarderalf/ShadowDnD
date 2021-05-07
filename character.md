@@ -1,6 +1,6 @@
 ## Attributes
 
-Attributes represent the base representation of the mind and body of the character. Attributes are capped at level + 1 at the highest and -level - 1 at lowest. On character creation you have 4 points with the ability reduce into the negatives to gain more points. Attribute points gain 2 per level (subject to change) with the ability to reduce points in stats to gain more points.
+Attributes represent the base representation of the mind and body of the character. `Attributes are capped at level + 1 at the highest and -level - 1 at lowest.` On character creation you have 4 points with the ability reduce into the negatives to gain more points. Attribute points gain 2 per level (subject to change) with the ability to reduce points in stats to gain more points.
 
 ### Physical
 
@@ -32,13 +32,13 @@ Combination of Dex and Reaction as well armor/shield worn. Possible flat footed 
 
 ## Proficiency
 
-Proficiency bonus = Math.floor(level / 2) minimum of 1
+Proficiency bonus = `Math.floor(level / 2) minimum of 1`
 
 ## Checks
 
 Check points when starting a new character: 2 + number of attributes with positive points
-Check points per level up: number of attributes with positive points / 2
-Capped at: level + 1
+Check points per level up: number of attributes with `positive points / 2`
+Capped at: `level + 1`
 
 | Skill        | Description |
 | ------------ | ----------- |
