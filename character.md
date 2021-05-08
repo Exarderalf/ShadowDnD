@@ -64,4 +64,4 @@ Capped at: `level + 1`
 | Intimidate   |             |
 | Empathy      |             |
 | Computer Use |             |
-| Medicine     |             |
+| Medicine     |             | 
