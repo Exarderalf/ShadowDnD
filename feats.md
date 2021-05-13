@@ -1,4 +1,7 @@
-## Test
+## Legend
+
+X = targeted square
+O = origin square
 
 | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- |
