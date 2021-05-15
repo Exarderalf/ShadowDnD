@@ -1,6 +1,6 @@
 ## Legend
 
-X = targeted square
+X = targeted square  
 O = origin square
 
 | --- | --- | --- | --- | --- |
